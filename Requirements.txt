@@ -1,0 +1,9 @@
+pytest
+scikit-learn
+fastapi[all]
+pandas
+numpy
+matplotlib
+seaborn
+XGBoost
+imblearn
